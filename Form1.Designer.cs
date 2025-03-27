@@ -107,7 +107,7 @@
             // 
             this.btnMultiplicar.Location = new System.Drawing.Point(323, 226);
             this.btnMultiplicar.Name = "btnMultiplicar";
-            this.btnMultiplicar.Size = new System.Drawing.Size(108, 23);
+            this.btnMultiplicar.Size = new System.Drawing.Size(108, 32);
             this.btnMultiplicar.TabIndex = 7;
             this.btnMultiplicar.Text = "Multiplicar";
             this.btnMultiplicar.UseVisualStyleBackColor = true;
@@ -147,7 +147,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(761, 348);
+            this.ClientSize = new System.Drawing.Size(759, 347);
             this.Controls.Add(this.btnBorrar);
             this.Controls.Add(this.btnResiduo);
             this.Controls.Add(this.btnDividir);
